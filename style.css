@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-image: url(images/canvas.jpg);
+}
+
+.person {
+    background-image: url(images/person-removebg.png);
+    width: 160px;
+    height: 300px;
+}
+
+
